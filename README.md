@@ -2,6 +2,8 @@
 
 This repository contains a solution for the 42 School Exam Rank 04 question, **microshell**.
 
+You can view the source code here: [Microshell Source Code](./microshell.c)
+
 ## Exam Requirements
 
 ### Allowed Functions:
